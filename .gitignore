@@ -1,0 +1,5 @@
+.DS_Store
+configure.ts
+generated/
+build/
+node_modules/
